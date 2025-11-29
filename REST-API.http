@@ -1,6 +1,6 @@
 @REST_API_HostAddress = http://localhost:5128
 
-GET {{REST_API_HostAddress}}/weatherforecast/
+GET {{REST_API_HostAddress}}/timestamp/
 Accept: application/json
 
 ###
