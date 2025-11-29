@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="REST-API-Tests/REST-API-Tests.csproj" />
+  <Project Path="REST-API-Tests/REST-API.Tests.csproj" />
   <Project Path="REST-API/REST-API.csproj" />
 </Solution>

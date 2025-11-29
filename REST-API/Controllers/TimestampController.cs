@@ -7,7 +7,7 @@ namespace REST_API.Controllers
     public class TimestampController
     {
         [HttpGet(Name = "GetTimestamp")]
-        public ServerTimestamp Get()
+        public ServerTimestamp GetTimestamp()
         {
             return new ServerTimestamp
             {
